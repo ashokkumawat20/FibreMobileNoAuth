@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095004621198",
+    "firebase_url": "https://fibremobilenoauth.firebaseio.com",
+    "project_id": "fibremobilenoauth",
+    "storage_bucket": "fibremobilenoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095004621198:android:eea6e4c498827977297cdf",
+        "android_client_info": {
+          "package_name": "com.akshu.fibremobilenoauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095004621198-qt9o9m51k66nsmpuapeps3vcfu0ns2dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshu.fibremobilenoauth",
+            "certificate_hash": "c3634bd3d49e5da569a501037b44296db2958e5b"
+          }
+        },
+        {
+          "client_id": "1095004621198-litrtp92qd56l4hel543pr9rm7fmed45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ko26_hMAnXnwtX8K-Q7NwBcSzmotiM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095004621198-litrtp92qd56l4hel543pr9rm7fmed45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
